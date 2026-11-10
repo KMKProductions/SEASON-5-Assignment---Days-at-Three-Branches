@@ -1,0 +1,14 @@
+DESIGN GOAL
+
+I wanted to give the player fun dialogue options with the villagers. I decided to use scripted dialogue to achieve a more intuitive and straightforward experience.
+
+SHORT REFLECTION:
+
+I decided to use scripted dialogue techniques.
+I let the characters stick to their roles while adding some more to it. There is now a new role: the lightkeeper, who sets the torches up and keeps in mind which torches they've lit. The player
+can ask NPCs what lanterns are lit and if they can't see them, they won't know. The lightkeeper, however, knows if a lantern is lit or not. Additionally, I added dialogue options that only certain NPCs have
+that connect to other NPCs ' dialogue options, creating a mini quest for the player. Additionally, there is a dialogue option that uses open-ended player messages instead of scripted numbered messages.
+
+AI DISCLOSURE:
+
+I used Claude Code in this agent. It helped modify code and implement ideas. It made the project much easier to complete and allowed me to use much more complex techniques.
